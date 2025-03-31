@@ -29,7 +29,7 @@ body {
 }
 
 .main {
-  max-width: 960px;
+  max-width: 1060px;
   margin: 0 auto;
   text-align: center;
   margin-top: 120px;
