@@ -1,6 +1,7 @@
 # 📱 앱 이름 : **MiniMall (미니몰)**
 간단한 쇼핑몰 SPA를 만드는 프로젝트입니다.
 
+![image](https://github.com/user-attachments/assets/47f76a9a-ca31-4f68-99aa-a7ca45020533)
 
 
 
