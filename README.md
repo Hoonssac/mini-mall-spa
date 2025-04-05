@@ -1,5 +1,4 @@
 # 🛒 앱 이름 : **MiniMall (미니몰)**
-Vue.js로 쇼핑몰 사이트 "미니몰"을 만들어보자!
 
 ![image](https://github.com/user-attachments/assets/47f76a9a-ca31-4f68-99aa-a7ca45020533)
 
